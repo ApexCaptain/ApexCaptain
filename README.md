@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**ApexCaptain/ApexCaptain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- GitAds-Verify: 8M6K4P5JY693IEQPYR99KKSYOS8ADU89 -->
+<h1 align="center">Hellow, there 👋</h1>
+<h3 align="center">A passionate Software Engineer from South Korea. </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexCaptain" alt="ApexCaptain" /></a> </p>
+
+<br>
+
+<p>
+<a href="https://github.com/ApexCaptain"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApexCaptain&theme=tokyonight"/>
+</p>
+
+<br>
+
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ApexCaptain&hide=html,css,blade,scss&langs_count=8&layout=compact&theme=radical&card_width=160" />
+</a>
+
