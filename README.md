@@ -2,7 +2,7 @@
 
 <!-- GitAds-Verify: 8M6K4P5JY693IEQPYR99KKSYOS8ADU89 -->
 <h1 align="center">Hello, there 👋</h1>
-<h3 align="center">A passionate Software Engineer from South Korea. </h3>
+<h3 align="center">A passionate DevOps & Backend Engineer from South Korea.</h3>
 <h3 align="center">Please, have a visit my <a href="https://blog.ayteneve93.com">Blog!</a></h3>
 
 <br>
