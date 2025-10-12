@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexCaptain" alt="ApexCaptain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexCaptain&theme=onedark" alt="ApexCaptain" /></a> </p>
 
 <br>
 
@@ -20,3 +20,4 @@
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ApexCaptain&hide=html,css,blade,scss&langs_count=8&layout=compact&theme=radical&card_width=160" />
 </a>
 
+<br>
