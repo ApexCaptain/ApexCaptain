@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexCaptain&theme=onedark" alt="ApexCaptain" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ApexCaptain&column=3&theme=juicyfresh&rank=-?,-C" alt="ApexCaptain" /></a> </p>
 
 <br>
 
